@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Company","l":"Company(String)","u":"%3Cinit%3E(java.lang.String)"},{"p":"<Unnamed>","c":"Company","l":"compareTo(Company)"},{"p":"<Unnamed>","c":"Company","l":"getName()"},{"p":"<Unnamed>","c":"Company","l":"setName(String)","u":"setName(java.lang.String)"}];updateSearchResults();
