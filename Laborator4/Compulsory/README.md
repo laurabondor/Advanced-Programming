@@ -1,6 +1,6 @@
 # Compulsory
 
--Am creact un proiect Maven
+-Am creat un proiect Maven
 
 -Apoi am creat clasa Project care are ca date membre un string in care voi retine numele proiectului si diferite metode care gestioneaza stringul. Aceasta clasa va implementa si interfata Comparable.
 
